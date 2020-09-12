@@ -7,7 +7,7 @@ function App() {
     // BEM
     <div className="app">
       <h1>Building Amazon Store</h1>
-      {/* Header */}
+      <Header />
       {/* Home */}
     </div>
   );
