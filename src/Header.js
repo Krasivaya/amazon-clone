@@ -10,7 +10,6 @@ function Header() {
       />
       <div className="header__search">
         <input className="header__searchInput" type="text" />
-        {/* Logo Small Size */}
       </div>
       <div className="header__nav">
         <div className="header__option">
