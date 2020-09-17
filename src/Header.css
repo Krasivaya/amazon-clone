@@ -22,7 +22,7 @@
   border-radius: 24px;
 }
 
-.header__searchInput.header__searchIcon {
+.header__searchInput .header__searchIcon {
   padding: 5px;
   height: 22px !important;
   background-color: #cd9842;
