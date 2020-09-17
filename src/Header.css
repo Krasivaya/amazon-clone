@@ -35,6 +35,10 @@
   background-color: #cd9842;
 }
 
+.header__nav {
+  display: flex;
+}
+
 .header__option {
   display: flex;
   flex-direction: column;
