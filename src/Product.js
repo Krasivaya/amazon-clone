@@ -16,7 +16,6 @@ function Product({ title, image, price, rating }) {
             .map((_, i) => {
               <p>⭐</p>;
             })}
-          <p>⭐</p>;
         </div>
       </div>
       <img
