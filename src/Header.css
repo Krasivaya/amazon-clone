@@ -59,7 +59,7 @@
 
 .header__optionBasket {
   display: flex;
-  align-items: content;
+  align-items: center;
   color: #fff;
 }
 
