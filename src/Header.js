@@ -31,8 +31,8 @@ function Header() {
         </div>
 
         <div className="header__optionBasket">
-          <span className="header__optionLineOne">Your</span>
-          <span className="header__optionLineTwo">Primes</span>
+          </>
+          <span className="header__optionLineTwo">0</span>
         </div>
       </div>
     </div>
