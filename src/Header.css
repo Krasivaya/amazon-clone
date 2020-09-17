@@ -8,7 +8,7 @@
   z-index: 100;
 }
 
-.header-top {
+.header__logo {
   width: 100px;
   object-fit: contain;
   margin: 0 20px;
