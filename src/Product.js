@@ -11,9 +11,14 @@ function Product() {
         </p>
         <div className="product__rating">
           <p></p>
+          <p></p>
+          <p></p>
         </div>
       </div>
-      <img src="" />
+      <img
+        src="https://images-na.ssl-images-amazon.com/images/I/51Zymmog7UmL.AC_SY400_.jpg"
+        alt="product image"
+      />
     </div>
   );
 }
