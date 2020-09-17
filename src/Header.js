@@ -29,6 +29,11 @@ function Header() {
           <span className="header__optionLineOne">Your</span>
           <span className="header__optionLineTwo">Primes</span>
         </div>
+
+        <div className="header__optionBasket">
+          <span className="header__optionLineOne">Your</span>
+          <span className="header__optionLineTwo">Primes</span>
+        </div>
       </div>
     </div>
   );
