@@ -21,7 +21,7 @@ function Product() {
         src="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
         alt="product image"
       />
-      <button>Add to Basket</button>
+      <button className="product__button">Add to Basket</button>
     </div>
   );
 }
