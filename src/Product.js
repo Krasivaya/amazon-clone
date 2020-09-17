@@ -16,7 +16,7 @@ function Product() {
         </div>
       </div>
       <img
-        src="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UmL._AC_SY400_.jpg"
+        src="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
         alt="product image"
       />
     </div>
