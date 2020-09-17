@@ -15,6 +15,12 @@
   margin-top: 18px;
 }
 
+.header__search{
+  display: flex;
+  flex: 1;
+  a
+}
+
 .header__searchIcon {
   padding: 5px;
   height: 22px !important;
