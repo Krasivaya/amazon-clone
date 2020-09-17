@@ -12,7 +12,12 @@ function Home() {
           alt="banner"
         />
         <div className="home__row">
-          <Product />
+          <Product
+            title="The lean startup"
+            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
+            price={20.0}
+            rating={4}
+          />
           <Product />
         </div>
         <div className="home__row">
