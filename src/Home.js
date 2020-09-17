@@ -11,6 +11,7 @@ function Home() {
           alt="banner"
         />
       </div>
+      <div className="home__row"></div>
     </div>
   );
 }
