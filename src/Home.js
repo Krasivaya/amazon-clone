@@ -38,9 +38,9 @@ function Home() {
           <Product
             id="23567812"
             title="Amazon Echo (3rd generaton) | Smart speaker with Alexa, Charcoal Fabric"
-            price={20.0}
-            rating={4}
-            image="https://images-na.ssl-images-amazon.com/images/I/810%2BGNdkzKL._AC_SX450_.jpg"
+            price={98.99}
+            rating={5}
+            image="https://media.very.co.uk/i/very/P6LTG_SQ1_0000000071_CHARCOAL_SLf?300x400_retinamobilex2$"
           />
           <Product
             id="10459203"
