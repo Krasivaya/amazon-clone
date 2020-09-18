@@ -51,7 +51,13 @@ function Home() {
           />
         </div>
         <div className="home__row">
-          <Product />
+          <Product
+            id="10459203"
+            title="New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)"
+            price={598.99}
+            rating={4}
+            image="https://images-na.ssl-images-amazon.com/images/I/612mFrzr6L._AC_SX355_.jpg"
+          />
         </div>
       </div>
     </div>
