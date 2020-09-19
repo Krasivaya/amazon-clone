@@ -16,7 +16,7 @@ function App() {
             <Home />
           </Route>
           <Route path="/checkout">
-            
+            h2
           </Route>
         </switch>
     </div>
