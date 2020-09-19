@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import Header from "./Header";
 import Home from "./Home";
-import { BrowserRouter, }
+import { BrowserRouter as R}
 
 function App() {
   return (
