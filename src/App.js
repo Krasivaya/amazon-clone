@@ -11,8 +11,8 @@ function App() {
     // BEM
     <Router>
       <div className="app">
-        <Switch>
           <Header />
+        <Switch>
           <Route path="/checkout">
             <Checkout />
           </Route>
