@@ -10,7 +10,7 @@ function App() {
     // BEM
     <Router>
       <div className="app">
-        
+        <R
       <Header />
       <Home />
     </div>
