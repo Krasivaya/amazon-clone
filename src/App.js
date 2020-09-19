@@ -12,7 +12,6 @@ function App() {
       <div className="app">
         <switch>
           <Route path="/">
-            
             <Header />
             <Home />
           </Route>
