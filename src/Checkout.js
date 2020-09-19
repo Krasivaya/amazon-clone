@@ -10,7 +10,7 @@ function Checkout() {
           src="https://images-na.ssl-images-amazon.com/images/G/02/UK_CCMP/TM/OCC_Amazon1.CB423492668_.jpg"
           alt="ad"
         />
-        <h2 className>Your shopping Basket</h2>
+        <h2 className=>Your shopping Basket</h2>
       </div>
     </div>
   )
