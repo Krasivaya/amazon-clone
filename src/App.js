@@ -8,6 +8,7 @@ from "react-router-dom"
 function App() {
   return (
     // BEM
+    
     <div className="app">
       <Header />
       <Home />
