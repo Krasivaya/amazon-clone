@@ -5,7 +5,7 @@ function Checkout() {
     return (
         <div className="checkout">
             <div className="checkout__img">
-                <img className="checkout__ad" />
+                <img className="checkout__ad"/>
             </div>
         </div>
     )
