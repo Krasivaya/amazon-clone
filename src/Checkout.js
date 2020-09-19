@@ -7,7 +7,7 @@ function Checkout() {
             <div className="checkout__left">
                 <img 
                 className="checkout__ad" 
-                src="https://images-na.ssl-images-amazon.com/images/G/02/UK_"
+                src="https://images-na.ssl-images-amazon.com/images/G/02/UK_C"
                 alt="ad" />
             </div>
         </div>
