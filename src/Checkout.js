@@ -1,5 +1,5 @@
 import React from 'react'
-impo
+import "./Checkout"
 
 function Checkout() {
     return (
