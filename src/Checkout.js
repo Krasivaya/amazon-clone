@@ -8,4 +8,4 @@ function Checkout() {
     )
 }
 
-export default Checkout className="checkout"
+export default Checkout;
