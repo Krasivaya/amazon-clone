@@ -8,7 +8,9 @@ from "react-router-dom"
 function App() {
   return (
     // BEM
-    
+    <Router>
+      
+    </Router>
     <div className="app">
       <Header />
       <Home />
