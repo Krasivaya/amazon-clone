@@ -1,5 +1,5 @@
 import React from 'react';
-import 
+import "./Subtotal.css";
 
 function Subtotal() {
     return (
