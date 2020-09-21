@@ -15,7 +15,7 @@ function Checkout() {
         </div>
       </div>
       <div className="checkout__right">
-        
+        h
       </div>
     </div>
   )
