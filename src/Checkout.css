@@ -1,6 +1,6 @@
 .checkout{
     display: flex;
-    p
+    padding: 20px;
 }
 .checkout__ad{
     widows: 100%;
