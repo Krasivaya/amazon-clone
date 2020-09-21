@@ -2,7 +2,7 @@ import React from 'react'
 
 function Subtotal() {
     return (
-        <div clas>
+        <div className="">
             
         </div>
     )
