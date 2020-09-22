@@ -21,7 +21,7 @@ function Subtotal() {
         value={0}
         displayType={"text"}
         thousandSeparator={true}
-        
+        pref
       />
     </div>
   )
