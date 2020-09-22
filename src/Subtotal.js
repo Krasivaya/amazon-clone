@@ -9,7 +9,7 @@ function Subtotal() {
                 renderText={(value) => (
                     <>
                         <p>
-                          Sutotal ()
+                          Sutotal (0 items)
                         </p>
                     </>
                 )}
