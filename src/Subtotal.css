@@ -1,4 +1,5 @@
 .subtotal {
     display: flex;
-    flex-direction: ;
+    flex-direction: column;
+    justify-content: start;
 }
