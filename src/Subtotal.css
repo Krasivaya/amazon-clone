@@ -1,5 +1,7 @@
 .subtotal {
     display: flex;
     flex-direction: column;
-    justify-content: space-;
+    justify-content: space-between;
+    width: 300px;
+    h
 }
