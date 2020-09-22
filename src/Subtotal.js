@@ -8,7 +8,7 @@ function Subtotal() {
             <CurrencyFormat 
                 renderText={(value) => (
                     <>
-                    
+                        
                     </>
                 )}
             />
