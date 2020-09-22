@@ -13,6 +13,7 @@ function Subtotal() {
             </p>
             <small className="subtotal__gift">
               <input type="checkout" />
+              This order
             </small>
           </>
         )}
