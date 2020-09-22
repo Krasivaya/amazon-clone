@@ -18,7 +18,7 @@ function Subtotal() {
           </>
         )}
         decimalScale={2}
-        value
+        value={}
       />
     </div>
   )
