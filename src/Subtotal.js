@@ -13,10 +13,11 @@ function Subtotal() {
             </p>
             <small className="subtotal__gift">
               <input type="checkout" />
-              This order contains a gif
+              This order contains a gift
             </small>
           </>
         )}
+        
       />
     </div>
   )
