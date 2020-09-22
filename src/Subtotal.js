@@ -19,7 +19,8 @@ function Subtotal() {
         )}
         decimalScale={2}
         value={0}
-        displayType={}
+        displayType={"text"}
+        
       />
     </div>
   )
