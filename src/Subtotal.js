@@ -11,7 +11,9 @@ function Subtotal() {
             <p>
               Sutotal (0 items): <strong>0</strong>
             </p>
-            <small className="subtotal__gift"></small>
+            <small className="subtotal__gift">
+              <input type="checkout"
+            </small>
           </>
         )}
       />
