@@ -17,7 +17,7 @@ function Subtotal() {
             </small>
           </>
         )}
-        
+        decimal
       />
     </div>
   )
