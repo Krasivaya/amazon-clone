@@ -24,8 +24,7 @@ function Subtotal() {
         prefix={"$"}
       />
 
-      <button>Proceed to checkout</button>
-      h2.carine 
+      <button>Proceed to checkout</button
     </div>
   )
 }
