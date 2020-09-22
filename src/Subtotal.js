@@ -5,7 +5,8 @@ import CurrencyFormat from "react-currency-format";
 function Subtotal() {
     return (
         <div className="subtotal">
-            <Cur
+            <CurrencyFormat 
+            />
         </div>
     )
 }
