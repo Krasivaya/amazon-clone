@@ -25,6 +25,7 @@ function Subtotal() {
       />
 
       <button>Proceed to checkout</button>
+      h2.carine 
     </div>
   )
 }
