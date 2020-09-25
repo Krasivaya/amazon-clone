@@ -10,6 +10,10 @@ function Login() {
         e.preventDefault();
     }
 
+    const register = e => {
+        e.preventDefault();
+    }
+
     return (
         <div className="login">
             <Link to="/">
@@ -39,7 +43,7 @@ function Login() {
                     and our Interest-Based Ads Notice.
                 </p>
 
-                <button className="login__registerButton">Create your Amazon Account</button>
+                <button type='submit' onClick={register} className="login__registerButton">Create your Amazon Account</button>
             </div>
         </div>
     )
