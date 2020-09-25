@@ -6,13 +6,14 @@ import { useStateValue } from './StateProvider';
 function Subtotal() {
   const [{basket}, dispatch] = useStateValue();
 
+  console.log(basket)
   return (
     <div className="subtotal">
       <CurrencyFormat
         renderText={(value) => (
           <>
             <p>
-              Sutotal ({basket?} items): <strong>0</strong>
+              Sutotal ({basket?.length} items): <strong>0</strong>
             </p>
             <small className="subtotal__gift">
               <input type="checkout" />
