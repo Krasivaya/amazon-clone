@@ -19,7 +19,7 @@ function CheckoutProduct({ id, image, title, price, rating }) {
 							<p><span role="img" aria-label="star">⭐</span></p>
 						))}
 				</div>
-				<button>Remove from Basket</button>
+				<button onClick={}>Remove from Basket</button>
 			</div>
 		</div>
 	)
