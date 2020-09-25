@@ -1,8 +1,11 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './Login.css';
 import { Link } from 'react-router-dom'
 
 function Login() {
+    const [email, setEmail] = useState('')
+    const [pasword, setPassword] = useState('')
+
     return (
         <div className="login">
             <Link to="/">
