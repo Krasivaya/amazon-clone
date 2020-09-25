@@ -2,8 +2,11 @@ import React from "react";
 import "./Product.css";
 
 function Product({ id, title, image, price, rating }) {
+  const [state, dispatch] = useStateValue();
 
-  const addToBasket = ()
+  const addToBasket = () => {
+    
+  }
 
   return (
     <div className="product">
