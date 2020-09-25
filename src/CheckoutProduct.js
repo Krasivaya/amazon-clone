@@ -7,7 +7,7 @@ function CheckoutProduct({ id, image, title, price, rating }) {
 			<img className="checkoutPtoduct__image" src={image} alt="Checkout Product" />
 
 			<div className="checkoutProduct__info">
-				<p className="checkoutProduct__title"></p>
+				<p className="checkoutProduct__title">{title}</p>
 				<p className="checkoutProduct__price">
 					<small>$</small>
 					<strong>{price}</strong>
