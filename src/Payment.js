@@ -2,6 +2,7 @@ import React from 'react'
 import { useStateValue } from './StateProvider';
 import CheckoutProduct from './CheckoutProduct';
 import { Link } from 'react-router-dom';
+import './Payment.css';
 
 function Payment() {
   const [{user, basket}, dispatch] = useStateValue();
