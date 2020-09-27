@@ -13,6 +13,14 @@ function Login() {
 
         auth
             .signInWithEmailAndPassword(email, password)
+            .then((auth) => {
+                if (auth){
+                    history.push('/')
+                }
+            })
+            .catch((error) => {
+                alert(error.message)
+            })
     }
 
     const register = e => {
